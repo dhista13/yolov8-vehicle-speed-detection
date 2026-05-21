@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Output video
+output/
+
+# Model YOLO
+*.pt
+
+# VSCode
+.vscode/
+
+# System file
+.DS_Store
