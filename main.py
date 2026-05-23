@@ -7,7 +7,7 @@ import time
 VIDEO_PATH  = 'videos/vehicle_detection1.mp4'
 OUTPUT_PATH = 'output/output_results1.mp4'
 
-# POSISI GARIS (salin dari check_line.py)
+# POSISI GARIS (salin dari check_line.py & debug_line.py)
 CY1 = 122
 CY2 = 157
 L1_X_KIRI  = 350
