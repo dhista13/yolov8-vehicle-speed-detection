@@ -26,7 +26,7 @@ if hasil[0].boxes is not None:
 
 titik = []
 
-def klik(event, x, y,):
+def klik(event, x, y, flags, param):
     if event == cv2.EVENT_LBUTTONDOWN:
         titik.append((x,y))
         cv2.circle(frame,(x,y),6,(0,255,255),-1)
